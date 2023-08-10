@@ -5,10 +5,6 @@ import seaborn as sns
 
 df = pd.read_csv('Desktop\projects\eda project\IT Salary Survey EU 2019.csv', sep = ",")
 
-df.head()
-
-df.columns
-
 df = df.rename(columns = {"Age": "age", "Gender": "gender", "City":"city", "Zeitstempel": "survey_time", 
           "Position (without seniority)": "position", 
           "Your main technology / programming language": "main_technology",
@@ -28,8 +24,6 @@ df = df.rename(columns = {"Age": "age", "Gender": "gender", "City":"city", "Zeit
          "Company type": "company_type",
          "Сontract duration": "contract_duration",
          "Company business sector": "business_industry"})
-
-df.info()
 
 df.drop(['survey_time'], axis = 1, inplace = True) # dropping unnecessary column
 
