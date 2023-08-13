@@ -5,4 +5,4 @@ Data source: https://www.kaggle.com/datasets/parulpandey/2020-it-salary-survey-f
 
 Based on National Institute of Standards and Technology _Engineering Statistic Handbook_
 
-Based on _Practical Statistics for Data Scientists. 50+ Essential Concepts Using R and Python._ by Peter Bruce, Andrew bruce and Peter Gedeck
+Based on _Practical Statistics for Data Scientists. 50+ Essential Concepts Using R and Python._ by Peter Bruce, Andrew Bruce and Peter Gedeck
