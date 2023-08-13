@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 from scipy import stats as sts
 import seaborn as sns
+import matplotlib.pyplot as plt
+import scipy.stats as scp
 
 df = pd.read_csv('Desktop\projects\eda project\IT Salary Survey EU 2019.csv', sep = ",")
 
@@ -199,9 +201,6 @@ print(df.dtypes)
 df.to_csv(r'C:\Users\jsmvk\Desktop\projects\eda project\IT_Salary_Survey_EU_2019.csv', index = False)
 
 # Exploratory Data Analysis
-
-import matplotlib.pyplot as plt
-import scipy.stats as scp
 
 df.describe()
 
