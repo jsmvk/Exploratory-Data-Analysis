@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis
 EDA of 2019 IT salary survey in EU region 
 
-Data source: https://www.kaggle.com/datasets/parulpandey/2020-it-salary-survey-for-eu-region  
+Data source: https://www.kaggle.com/datasets/parulpandey/2020-it-salary-survey-for-eu-region
 
 Based on National Institute of Standards and Technology _Engineering Statistic Handbook_
 
